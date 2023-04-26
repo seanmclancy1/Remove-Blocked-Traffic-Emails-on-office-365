@@ -1,7 +1,7 @@
 # Remove Blocked Traffic (Emails) on Office 365
 Remove Blocked Traffic | Office 365
 <h2>Description</h2>
-Microsoft 365 Defender does a great job of stopping unwanted traffic like phishing emails to be sent to our users. Sometimes however, there will be emails and messages that our users need to access that will be blocked as well. This is ok because we rather have a zero trust mindset so we know that malicious data isn't going to be on our network. There is an easy solution to allow that traffic to be released to your users. 
+Microsoft 365 Defender does a great job of stopping unwanted traffic, like phishing emails, from being sent to our users. Sometimes however, there will be emails and messages that our users need to access that will be blocked as well. This is ok because we rather have a zero trust mindset so we know that malicious data isn't going to be on our network. There is an easy solution to allow that traffic to be released to your users. 
 <br />
 
 <h2>Program walk-through:</h2>
